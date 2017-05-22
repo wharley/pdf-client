@@ -39,7 +39,7 @@ export class AppComponent {
 
     const docDefinition = {
       content: [
-        {text: 'Relatório de produtos', style: 'subheader'},
+        {text: 'Report of products', style: 'subheader'},
         {
           style: 'tableExample',
           table: {
@@ -103,7 +103,7 @@ export class AppComponent {
 
     const docDefinition = {
       content: [
-        {text: 'Relatório de produtos', style: 'subheader'},
+        {text: 'Report of products', style: 'subheader'},
         {
           style: 'tableExample',
           table: {
@@ -169,7 +169,7 @@ export class AppComponent {
 
     const docDefinition = {
       content: [
-        {text: 'Relatório de produtos', style: 'subheader'},
+        {text: 'Report of products', style: 'subheader'},
         {
           style: 'tableExample',
           table: {
